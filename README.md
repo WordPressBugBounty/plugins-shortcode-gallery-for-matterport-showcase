@@ -1,0 +1,1 @@
+# plugins-shortcode-gallery-for-matterport-showcase
